@@ -1,6 +1,5 @@
 echo "this is first test"
 
 echo "welcome "
-yum install httpd 
-
+yum install -y httpd
 yum install nmap -y
